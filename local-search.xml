@@ -8,13 +8,32 @@
     <link href="/2025/12/23/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/"/>
     <url>/2025/12/23/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/</url>
     
-    <content type="html"><![CDATA[<hr><p>这是一篇测试文章</p><img src="/2025/12/23/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/test.png" class=""><p><img src="/../%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/test.png" alt="图片引用方法二"></p><p><img src="/images/test.png" alt="图片引用方法三"></p>]]></content>
+    <content type="html"><![CDATA[<hr><p>这是一篇测试文章</p><img src="/2025/12/23/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/test.png" class="">]]></content>
     
     
     
     <tags>
       
       <tag>Java</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>PID</title>
+    <link href="/2025/12/23/Pid/"/>
+    <url>/2025/12/23/Pid/</url>
+    
+    <content type="html"><![CDATA[<h1 id="Extensions"><a href="#Extensions" class="headerlink" title="Extensions"></a>Extensions</h1><h2 id="Plugins-https-hexo-io-plugins"><a href="#Plugins-https-hexo-io-plugins" class="headerlink" title="Plugins: https://hexo.io/plugins/"></a>Plugins: <a href="https://hexo.io/plugins/">https://hexo.io/plugins/</a></h2><h2 id="Themes-https-hexo-io-themes"><a href="#Themes-https-hexo-io-themes" class="headerlink" title="Themes: https://hexo.io/themes/"></a>Themes: <a href="https://hexo.io/themes/">https://hexo.io/themes/</a></h2><p>theme: fluid</p>]]></content>
+    
+    
+    
+    <tags>
+      
+      <tag>c 算法</tag>
       
     </tags>
     
