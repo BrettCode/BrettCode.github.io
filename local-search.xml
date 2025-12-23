@@ -30,10 +30,16 @@
     <content type="html"><![CDATA[<h1 id="Extensions"><a href="#Extensions" class="headerlink" title="Extensions"></a>Extensions</h1><h2 id="Plugins-https-hexo-io-plugins"><a href="#Plugins-https-hexo-io-plugins" class="headerlink" title="Plugins: https://hexo.io/plugins/"></a>Plugins: <a href="https://hexo.io/plugins/">https://hexo.io/plugins/</a></h2><h2 id="Themes-https-hexo-io-themes"><a href="#Themes-https-hexo-io-themes" class="headerlink" title="Themes: https://hexo.io/themes/"></a>Themes: <a href="https://hexo.io/themes/">https://hexo.io/themes/</a></h2><p>theme: fluid</p>]]></content>
     
     
+    <categories>
+      
+      <category>算法 , 人工智能</category>
+      
+    </categories>
+    
     
     <tags>
       
-      <tag>c 算法</tag>
+      <tag>c , 算法</tag>
       
     </tags>
     
